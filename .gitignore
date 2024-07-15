@@ -1,0 +1,130 @@
+# Compiled Object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+*.i
+
+# Debug files
+*.dSYM/
+*.dSYM/*
+*.ncb
+*.sdf
+*.pdb
+*.ilk
+*.idb
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Directories
+/Debug/
+/Release/
+/build/
+/out/
+/CMakeFiles/
+/cmake-build-debug/
+/cmake-build-release/
+
+# IDE specific
+.vscode/
+/.idea/
+/*.code-workspace
+/.cproject
+/.project
+/.settings
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+/CMakeScripts/
+/Testing/
+/CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# Other generated files
+*.pyc
+*.pyo
+*.class
+*.mode1v3
+*.mode2v3
+*.modev3
+*.plist
+*.obj
+*.elf
+*.lst
+*.map
+*.hex
+*.bin
+*.lss
+*.lst
+*.sym
+*.tlog
+*.vcxproj*
+*.vcproj*
+*.idb
+*.ipdb
+*.ipch
+*.dir
+*.suo
+*.swp
+*.xcodeproj
+*.xcworkspace
+*.vcxproj
+*.vcproj
+*.sln
+*.dsw
+*.ebp
+*.log
+*.htm
+*.html
+*.xml
+*.tmp
+*.log
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
